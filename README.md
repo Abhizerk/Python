@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
 
-Donuts for all your donut needs! See the YouTube video: [youtu.be/D26bLJ9ut88](https://youtu.be/D26bLJ9ut88)
+Donuts for all your donut needs! See the YouTube video: [youtu.be/GwNaeyn_ex4](https://youtu.be/GwNaeyn_ex4)
 
 Based on spinning ASCII Donut: 
 
